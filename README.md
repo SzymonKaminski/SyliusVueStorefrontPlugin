@@ -3,21 +3,21 @@
         <img src="doc/logo.png" width="55%" />
     </a>
     <br />
-<!--     <a href="https://packagist.org/packages/bitbag/vuestorefront-plugin" title="License" target="_blank">
+    <a href="https://packagist.org/packages/bitbag/vuestorefront-plugin" title="License" target="_blank">
         <img src="https://img.shields.io/packagist/l/bitbag/vuestorefront-plugin.svg" />
     </a>
     <a href="https://packagist.org/packages/bitbag/vuestorefront-plugin" title="Version" target="_blank">
         <img src="https://img.shields.io/packagist/v/bitbag/vuestorefront-plugin.svg" />
-    </a> -->
+    </a>
     <a href="http://travis-ci.org/BitBagCommerce/SyliusVueStorefrontPlugin" title="Build status" target="_blank">
             <img src="https://img.shields.io/travis/BitBagCommerce/SyliusVueStorefrontPlugin/master.svg" />
         </a>
-<!--     <a href="https://scrutinizer-ci.com/g/BitBagCommerce/SyliusVueStorefrontPlugin/" title="Scrutinizer" target="_blank">
+    <a href="https://scrutinizer-ci.com/g/BitBagCommerce/SyliusVueStorefrontPlugin/" title="Scrutinizer" target="_blank">
         <img src="https://img.shields.io/scrutinizer/g/BitBagCommerce/SyliusVueStorefrontPlugin.svg" />
     </a>
     <a href="https://packagist.org/packages/bitbag/vuestorefront-plugin" title="Total Downloads" target="_blank">
         <img src="https://poser.pugx.org/bitbag/vuestorefront-plugin/downloads" />
-    </a> -->
+    </a>
     <p>
         <img src="https://sylius.com/assets/badge-approved-by-sylius.png" width="85">
     </p>
@@ -43,8 +43,8 @@ Sylius ShopBundle is also no longer needed as Vue Storefront will be your new ..
 
 ## Vue Storefront + Sylius Demo
 
-We've created a demo app that showcases usage of this plugin. Visit [vsf.bitbag.shop](vsf.bitbag.shop) to check it out!  
-The Sylius admin panel is accessible at [vsf.bitbag.shop/admin](vsf.bitbag.shop/admin). Admin credentials: `sylius : sylius`.
+We've created a demo app that showcases usage of this plugin. Visit [vsf.bitbag.shop](https://vsf.bitbag.shop) to check it out!  
+The Sylius admin panel is accessible at [syliusvsf.bitbag.shop/admin](https://syliusvsf.bitbag.shop/admin). Admin credentials: `sylius : sylius`.
 
 
 ## Installation
